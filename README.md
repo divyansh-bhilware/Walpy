@@ -7,7 +7,7 @@ Welcome to Walpy, your go-to destination for random wallpapers! Walpy is a web a
 
 Visit Walpy
 
-For a live demonstration, visit [Walpy](<https://divyansh-bhilware.github.io/Amazon-clone/](https://divyansh-bhilware.github.io/Walpy/>). Enjoy exploring and discovering new wallpapers with Walpy!
+For a live demonstration, visit [Walpy](<https://divyansh-bhilware.github.io/Walpy/>). Enjoy exploring and discovering new wallpapers with Walpy!
 Table of Contents
 
 Getting Started
